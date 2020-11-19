@@ -1,42 +1,26 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Fixator10",
+    "url": "https://fixator10.ru",
+    "slug": "fixator10",
     "status": "up",
     "uptime": "100.00",
-    "time": 88
+    "time": 782
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "Ene: static",
+    "url": "https://ene.fixator10.ru",
+    "slug": "ene-static",
     "status": "up",
     "uptime": "100.00",
-    "time": 135
+    "time": 921
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Ene: dashboard",
+    "url": "https://enedash.fixator10.ru",
+    "slug": "ene-dashboard",
     "status": "up",
     "uptime": "100.00",
-    "time": 339
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
-    "status": "down",
-    "uptime": "99.96",
-    "time": 0
-  },
-  {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 49
+    "time": 756
   }
 ]
