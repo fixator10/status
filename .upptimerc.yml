@@ -16,10 +16,10 @@ status-website:
   cname: status.fixator10.ru
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Idk what is this"
-  introMessage: This is supposed to be a status page, but not sure yet
+  logoUrl: https://gravatar.com/avatar/cc1b58943b87cd3b8ac447b69caaf109?s=2048
+  name: Fixator10 status page
+  introTitle: "My personal status page"
+  introMessage: "I guess, i'm still alive. Probably... Look below."
   navbar:
     - title: Status
       href: /
