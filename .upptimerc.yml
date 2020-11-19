@@ -6,9 +6,9 @@ repo: status # Your Github repository name
 sites:
   - name: Fixator10
     url: https://fixator10.ru
-  - name: Ene: static
+  - name: "Ene: static"
     url: https://ene.fixator10.ru
-  - name: Ene: dashboard
+  - name: "Ene: dashboard"
     url: https://enedash.fixator10.ru
 
 status-website:
