@@ -4,23 +4,23 @@
     "url": "https://fixator10.ru",
     "slug": "fixator10",
     "status": "up",
-    "uptime": "100.00",
-    "time": 774
+    "uptime": "100.00%",
+    "time": 739
   },
   {
     "name": "Ene: static",
     "url": "https://ene.fixator10.ru",
     "slug": "ene-static",
     "status": "up",
-    "uptime": "100.00",
-    "time": 813
+    "uptime": "100.00%",
+    "time": 786
   },
   {
     "name": "Ene: dashboard",
     "url": "https://enedash.fixator10.ru",
     "slug": "ene-dashboard",
     "status": "up",
-    "uptime": "100.00",
-    "time": 789
+    "uptime": "100.00%",
+    "time": 794
   }
 ]
