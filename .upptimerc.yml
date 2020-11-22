@@ -11,7 +11,7 @@ sites:
   - name: "Ene: stats (grafana)"
     url: https://ene.fixator10.ru/stats/api/health
   - name: "Ene: stats (db)"
-    url: $INFLUX_HEALTH_URL
+    url: $SECRET_SITE_1
   - name: "Ene: dashboard"
     url: https://enedash.fixator10.ru
 
