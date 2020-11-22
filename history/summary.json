@@ -5,7 +5,7 @@
     "slug": "fixator10",
     "status": "up",
     "uptime": "100.00%",
-    "time": 739
+    "time": 722
   },
   {
     "name": "Ene: static",
@@ -13,7 +13,23 @@
     "slug": "ene-static",
     "status": "up",
     "uptime": "100.00%",
-    "time": 786
+    "time": 776
+  },
+  {
+    "name": "Ene: stats (grafana)",
+    "url": "https://ene.fixator10.ru/stats/api/health",
+    "slug": "ene-stats-grafana",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 476
+  },
+  {
+    "name": "Ene: stats (db)",
+    "url": "$INFLUX_HEALTH_URL",
+    "slug": "ene-stats-db",
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   },
   {
     "name": "Ene: dashboard",
@@ -21,6 +37,6 @@
     "slug": "ene-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 794
+    "time": 777
   }
 ]
