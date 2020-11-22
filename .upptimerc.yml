@@ -25,6 +25,10 @@ status-website:
   introTitle: "My personal status page"
   introMessage: "I guess, i'm still alive. Probably... Look below."
   navbar:
+    - title: Home
+      href: https://fixator10.ru/
+    - title: Ene
+      href: https://ene.fixator10.ru/
     - title: Status
       href: /
       
