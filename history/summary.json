@@ -27,9 +27,9 @@
     "name": "Ene: stats (db)",
     "url": "$SECRET_SITE_1",
     "slug": "ene-stats-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 0
+    "time": 204
   },
   {
     "name": "Ene: dashboard",
