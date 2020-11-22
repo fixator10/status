@@ -5,7 +5,7 @@
     "slug": "fixator10",
     "status": "up",
     "uptime": "100.00%",
-    "time": 711
+    "time": 694
   },
   {
     "name": "Ene: static",
@@ -13,7 +13,7 @@
     "slug": "ene-static",
     "status": "up",
     "uptime": "100.00%",
-    "time": 772
+    "time": 769
   },
   {
     "name": "Ene: stats (grafana)",
@@ -21,7 +21,7 @@
     "slug": "ene-stats-grafana",
     "status": "up",
     "uptime": "100.00%",
-    "time": 318
+    "time": 370
   },
   {
     "name": "Ene: stats (db)",
@@ -29,7 +29,7 @@
     "slug": "ene-stats-db",
     "status": "up",
     "uptime": "100.00%",
-    "time": 204
+    "time": 292
   },
   {
     "name": "Ene: dashboard",
