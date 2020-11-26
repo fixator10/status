@@ -4,7 +4,7 @@
     "url": "https://fixator10.ru",
     "slug": "fixator10",
     "status": "up",
-    "uptime": "64.92%",
+    "uptime": "65.00%",
     "time": 2357
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://ene.fixator10.ru",
     "slug": "ene-static",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.48%",
     "time": 1065
   },
   {
@@ -27,9 +27,9 @@
     "name": "Ene: Stats (DB)",
     "url": "$SECRET_SITE_1",
     "slug": "ene-stats-db",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 1053
+    "time": 1019
   },
   {
     "name": "Ene: Dashboard",
