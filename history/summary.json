@@ -4,7 +4,7 @@
     "url": "https://fixator10.ru",
     "slug": "fixator10",
     "status": "up",
-    "uptime": "64.64%",
+    "uptime": "64.79%",
     "time": 1958
   },
   {
@@ -35,8 +35,8 @@
     "name": "Ene: Dashboard",
     "url": "https://enedash.fixator10.ru",
     "slug": "ene-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 1224
+    "time": 1200
   }
 ]
