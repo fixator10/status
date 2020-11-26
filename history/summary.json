@@ -3,17 +3,17 @@
     "name": "Fixator10",
     "url": "https://fixator10.ru",
     "slug": "fixator10",
-    "status": "up",
-    "uptime": "65.00%",
-    "time": 2357
+    "status": "down",
+    "uptime": "65.03%",
+    "time": 2259
   },
   {
     "name": "Ene: Static",
     "url": "https://ene.fixator10.ru",
     "slug": "ene-static",
-    "status": "up",
-    "uptime": "99.48%",
-    "time": 1065
+    "status": "down",
+    "uptime": "99.36%",
+    "time": 1045
   },
   {
     "name": "Ene: Stats (Grafana)",
@@ -27,9 +27,9 @@
     "name": "Ene: Stats (DB)",
     "url": "$SECRET_SITE_1",
     "slug": "ene-stats-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1019
+    "time": 1174
   },
   {
     "name": "Ene: Dashboard",
