@@ -4,7 +4,7 @@
     "url": "https://fixator10.ru",
     "slug": "fixator10",
     "status": "up",
-    "uptime": "71.53%",
+    "uptime": "71.55%",
     "time": 2627
   },
   {
@@ -20,16 +20,16 @@
     "url": "https://ene.fixator10.ru/stats/api/health",
     "slug": "ene-stats-grafana",
     "status": "down",
-    "uptime": "99.94%",
+    "uptime": "99.84%",
     "time": 1249
   },
   {
     "name": "Ene: Stats (DB)",
     "url": "$SECRET_SITE_1",
     "slug": "ene-stats-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "time": 1027
+    "time": 1004
   },
   {
     "name": "Ene: Dashboard",
