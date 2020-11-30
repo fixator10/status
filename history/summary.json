@@ -4,24 +4,24 @@
     "url": "https://fixator10.ru",
     "slug": "fixator10",
     "status": "up",
-    "uptime": "75.88%",
-    "time": 3131
+    "uptime": "78.27%",
+    "time": 3052
   },
   {
     "name": "Ene: Static",
     "url": "https://ene.fixator10.ru",
     "slug": "ene-static",
     "status": "up",
-    "uptime": "98.71%",
-    "time": 1113
+    "uptime": "98.83%",
+    "time": 1096
   },
   {
     "name": "Ene: Stats (Grafana)",
     "url": "https://ene.fixator10.ru/stats/api/health",
     "slug": "ene-stats-grafana",
     "status": "up",
-    "uptime": "84.01%",
-    "time": 1103
+    "uptime": "86.15%",
+    "time": 1069
   },
   {
     "name": "Ene: Stats (DB)",
@@ -29,7 +29,7 @@
     "slug": "ene-stats-db",
     "status": "up",
     "uptime": "100.00%",
-    "time": 902
+    "time": 894
   },
   {
     "name": "Ene: Dashboard",
@@ -37,6 +37,6 @@
     "slug": "ene-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1275
+    "time": 1261
   }
 ]
