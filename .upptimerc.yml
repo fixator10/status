@@ -14,6 +14,9 @@ sites:
     url: $SECRET_SITE_1
   - name: "Ene: Dashboard"
     url: https://enedash.fixator10.ru
+    
+assignees: # Users to assign downtime issues (optional)
+  - Fixator10
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
