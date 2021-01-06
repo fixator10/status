@@ -13,7 +13,7 @@ sites:
   - name: "Ene: Stats (DB)"
     url: $SECRET_SITE_1
   - name: "Ene: Dashboard"
-    url: https://enedash.fixator10.ru
+    url: https://ene.fixator10.ru/dash/
     
 assignees: # Users to assign downtime issues (optional)
   - Fixator10
