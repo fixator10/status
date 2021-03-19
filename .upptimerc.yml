@@ -27,6 +27,7 @@ status-website:
   name: Fixator10 status page
   introTitle: "My personal status page"
   introMessage: "I guess, i'm still alive. *Probably...* Look below."
+  theme: dark
   navbar:
     - title: Home
       href: https://fixator10.ru/
