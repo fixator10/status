@@ -1,7 +1,7 @@
 url: https://fixator10.ru
-status: up
-code: 200
-responseTime: 597
-lastUpdated: 2021-05-28T23:23:25.248Z
+status: down
+code: 503
+responseTime: 172
+lastUpdated: 2021-05-29T21:10:19.264Z
 startTime: Thu Nov 19 2020 22:08:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
