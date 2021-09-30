@@ -1,7 +1,7 @@
 url: https://ene.fixator10.ru/stats/api/health
-status: up
-code: 200
-responseTime: 16048
-lastUpdated: 2021-09-30T14:58:42.493Z
+status: down
+code: 523
+responseTime: 1126
+lastUpdated: 2021-09-30T19:36:59.817Z
 startTime: Sun Nov 22 2020 12:58:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
