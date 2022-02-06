@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/fixator10.ru",
     "slug": "fixator10",
     "status": "down",
-    "uptime": "79.64%",
+    "uptime": "79.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.43%",
-    "time": 1323,
-    "timeDay": 3378,
-    "timeWeek": 2835,
+    "time": 1327,
+    "timeDay": 3357,
+    "timeWeek": 3129,
     "timeMonth": 2766,
-    "timeYear": 1214,
+    "timeYear": 1216,
     "dailyMinutesDown": {
-      "2022-02-05": 22,
+      "2022-02-06": 36,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -94,8 +95,7 @@
       "2021-07-31": 578,
       "2021-07-30": 212,
       "2021-02-08": 949,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -104,18 +104,19 @@
     "icon": "https://cdn.discordapp.com/avatars/257789498153238528/0b3b9d6b02bddc804d831ad919c2e36e.png?size=128",
     "slug": "ene-static",
     "status": "down",
-    "uptime": "80.15%",
+    "uptime": "79.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.42%",
-    "time": 1176,
-    "timeDay": 2762,
-    "timeWeek": 2793,
-    "timeMonth": 2851,
+    "time": 1179,
+    "timeDay": 2777,
+    "timeWeek": 2781,
+    "timeMonth": 2850,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2022-02-05": 22,
+      "2022-02-06": 36,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -195,8 +196,7 @@
       "2021-07-31": 578,
       "2021-07-30": 211,
       "2021-02-08": 949,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -205,18 +205,19 @@
     "icon": "https://grafana.com/static/assets/img/fav32.png",
     "slug": "ene-stats-grafana",
     "status": "down",
-    "uptime": "79.83%",
+    "uptime": "79.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.41%",
-    "time": 1016,
-    "timeDay": 2958,
-    "timeWeek": 2954,
-    "timeMonth": 2937,
+    "time": 1019,
+    "timeDay": 2867,
+    "timeWeek": 2946,
+    "timeMonth": 2936,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2022-02-05": 22,
+      "2022-02-06": 36,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -296,8 +297,7 @@
       "2021-07-30": 211,
       "2021-03-13": 90,
       "2021-02-08": 949,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -306,18 +306,19 @@
     "icon": "https://www.influxdata.com/wp-content/uploads/Favicon-blue-200x200.png",
     "slug": "ene-stats-db",
     "status": "down",
-    "uptime": "79.17%",
+    "uptime": "78.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.42%",
-    "time": 1148,
-    "timeDay": 2808,
-    "timeWeek": 2941,
-    "timeMonth": 2907,
-    "timeYear": 1156,
+    "time": 1151,
+    "timeDay": 2798,
+    "timeWeek": 2930,
+    "timeMonth": 2906,
+    "timeYear": 1155,
     "dailyMinutesDown": {
-      "2022-02-05": 22,
+      "2022-02-06": 36,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -396,8 +397,7 @@
       "2021-07-31": 578,
       "2021-07-30": 211,
       "2021-02-08": 949,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -406,18 +406,19 @@
     "icon": "https://cdn.discordapp.com/avatars/257789498153238528/0b3b9d6b02bddc804d831ad919c2e36e.png?size=128",
     "slug": "ene-dashboard",
     "status": "down",
-    "uptime": "79.24%",
+    "uptime": "79.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "80.42%",
-    "time": 1137,
-    "timeDay": 3502,
-    "timeWeek": 3037,
-    "timeMonth": 3158,
+    "time": 1140,
+    "timeDay": 2846,
+    "timeWeek": 3027,
+    "timeMonth": 3159,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2022-02-05": 22,
+      "2022-02-06": 36,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
@@ -497,8 +498,7 @@
       "2021-07-31": 578,
       "2021-07-30": 211,
       "2021-02-08": 949,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   }
 ]
